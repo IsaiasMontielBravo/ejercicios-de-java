@@ -1,7 +1,7 @@
 /**
 * Lectura de datos desde teclado
 *
-* @author Luis J. Sánchez
+* @author isaias Montiel
 */
 
 public class ejercicio1 {
@@ -9,6 +9,7 @@ public class ejercicio1 {
 
     String linea;
 
+    
     System.out.print("Por favor, introduce un número: ");
     linea = System.console().readLine();
     int primerNumero;
